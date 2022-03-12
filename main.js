@@ -1,2 +1,2 @@
 let segundoNombre= 'lala'
-let segundoNombre=  'abc'
+let segundoNombre1=  'abc'
